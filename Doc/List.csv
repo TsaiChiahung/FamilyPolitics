@@ -1,10 +1,10 @@
-﻿First Name,Last Name,Arrival Date,Arrival Time,Check-in Date,Check-in Time,Hotel,Departure Date,Departure Time,Airline,Dependents
+﻿First Name,Last Name,Arrival Date,Arrival Time,Hotel,Departure Date,Departure Time,Airline,Dependents
 Allen,Hicken,Aug.2,,Aug.2,,,Aug.5,,Delta,0
-Julio,Teehankee,Aug. 2,,Aug. 2,,Ricaarton,Aug. 5,,,0
-Saiful,Mujani,,,, ,Ricaarton ,  ,  ,   ,
-Nathan,Batto,,,,, Ricaarton, ,  ,   ,
-Chia-hung ,Tsai,Aug. 2,12:25,Aug. 2, , Ricaarton ,Aug. 10,9:00,EVA/Cathay,2
-Lu-huei,Chen,Aug. 2,,Aug. 2,, Ricaarton ,Aug. 5,,,
-Ying-long,Chou,,,,,,,,,
-Yi Le,Ng,,,,,,,,,
-Chi,Huang,Aug. 2,23:00,Aug. 2,, Ricaarton,Aug. 5,,,
+Julio,Teehankee,Aug. 2,,Ricaarton,Aug. 5,,,0
+Saiful,Mujani, , ,Ricaarton ,  ,  ,   ,
+Nathan,Batto,,,Ricaarton, ,  ,   ,
+Chia-hung ,Tsai,Aug. 2,12:25, Ricaarton ,Aug. 10,9:00,EVA/Cathay,2
+Lu-huei,Chen,Aug. 2,, Ricaarton ,Aug. 5,,,
+Ying-long,Chou, , , ,,,,
+Yi Le,Ng,,,,,,,
+Chi,Huang,Aug. 2,23:00,Ricaarton,Aug. 5,,,
