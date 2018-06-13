@@ -1,10 +1,10 @@
 ﻿First Name,Last Name,Arrival Date,Arrival Time,Hotel,Departure Date,Departure Time,Airline,Dependents
 Allen,Hicken,Aug.2,,Metropolitan Executive Motel,Aug.5,,Delta,0
 Julio,Teehankee,Aug. 2,,Metropolitan Executive Motel,Aug. 5,,,0
-Saiful,Mujani, , ,Metropolitan Executive Motel ,  ,  ,   ,
-Nathan,Batto,,,Metropolitan Executive Motel, ,  ,   ,
+Saiful,Mujani, , ,Metropolitan Executive Motel ,  ,  ,   ,0
+Nathan,Batto,,,Metropolitan Executive Motel, ,  ,   ,1
 Chia-hung ,Tsai,Aug. 1,12:25, Metropolitan Executive Motel ,Aug. 10,9:00,EVA/Cathay,2
 Lu-huei,Chen,Aug. 2,, Metropolitan Executive Motel  ,Aug. 5,,,0
 Ying-long,Chou, , , Metropolitan Executive Motel,,,,0
-Yi Le,Ng,  ,  ,Metropolitan Executive Motel ,,,,
+Yi Le,Ng,  ,  ,Metropolitan Executive Motel ,,,,0
 Chi,Huang,Aug. 2,23:00,Metropolitan Executive Motel,Aug. 5,15:00,CI053_054,0
