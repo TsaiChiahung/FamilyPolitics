@@ -8,6 +8,13 @@
 
 <li>Chair: Chi Huang (National Chengchi University, Taiwan)</li>    
 
-### TBD         
+### 1. TBD         
 **Presenter**: Allen Hicken (University of Michigan, US)   
 **Discussant**: James Ockey (University of Canterbury, New Zealand)    
+### 2. TBD         
+**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University)   
+**Discussant**: Julio Teehankee (De La Salle University, Philippines)   
+
+### 3. Families and Politics in Thailand            
+**Presenter**: James Ockey (University of Canterbury, New Zealand)      
+**Discussant**: Chia-hung Tsai (National Chengchi University, Taiwan)   
