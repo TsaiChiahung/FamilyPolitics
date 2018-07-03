@@ -36,3 +36,24 @@
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan) and Ying-long Chou (Tamkang University, Taiwan)     
 **Discussant**: Alex Tan (University of Canterbury, New Zealand)
 
+## Coffee Break (14:50-15:10)    
+
+
+## Panel III: Democracy, Family Politics and Governance (15:10-17:00)  
+
+<li>Chair:  Lu-huei Chen (National Chengchi University, Taiwan)      </li>
+
+
+### 1. Political Dynasties in Southern Philippines         
+**Presenter**: Dennis Quilala (University of the Philippines-Diliman, Philippines; University of Canterbury, New Zealand)  
+**Discussant**: Allen Hicken (University of Michigan)   
+
+### 2. Family Politics in Malaysia and Singapore            
+**Presenter**: Tsai-wei Sun and Yi Le Ng (National Chengchi University)     
+**Discussant**: Naimah Talib (University of Canterbury)    
+
+### 3. Political Family and Campaign Spending in Taiwan              
+**Presenter**: Chia-hung Tsai, Alex Tan, Lu-huei Chen, & Chi Huang (National Chengchi University, Taiwan)     
+**Discussant**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)
+
+## Conference Concludes (17:00)
