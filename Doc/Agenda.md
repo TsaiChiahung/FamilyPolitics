@@ -40,7 +40,8 @@
 
 ### 3. TBD            
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan) and Ying-long Chou (Tamkang University, Taiwan)     
-**Discussant**: Alex Tan (University of Canterbury, New Zealand)
+**Discussant**: Alex Tan (University of Canterbury, New Zealand)  
+
 
 ## Coffee Break (14:50-15:10)    
 
