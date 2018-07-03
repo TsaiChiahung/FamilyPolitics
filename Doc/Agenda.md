@@ -18,3 +18,19 @@
 ### 3. Families and Politics in Thailand            
 **Presenter**: James Ockey (University of Canterbury, New Zealand)      
 **Discussant**: Chia-hung Tsai (National Chengchi University, Taiwan)   
+
+## Lunch (12:00-13:00)    
+## Panel II: Family Politics and Democracy (13:00-14:50)      
+
+<li>Chair: Allen Hicken (University of Michigan, US)</li>   
+### 1. TBD         
+**Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
+**Discussant**: James Ockey (University of Canterbury, New Zealand)    
+### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
+**Presenter**: Julio Teehankee (De La Salle University, Philippines) 
+**Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
+
+### 3. TBD            
+**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan) and Ying-long Chou (Tamkang University, Taiwan)     
+**Discussant**: Alex Tan (University of Canterbury, New Zealand)
+
