@@ -1,7 +1,7 @@
 # International Conference on Elections and Family Politics in Southeast Asia 
 
 *Host*: University of Canterbury  
-*Date*: Aug. 3rd (Fr.), 2018  
+*Date*: Aug. 3rd (Fri.), 2018  
 *Organizers*: Election Study Center, National Chengchi University, and Department of Political Science, University of Canterbury  
 
 ## Registration (9:30-9:50)   
