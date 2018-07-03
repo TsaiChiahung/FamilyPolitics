@@ -23,12 +23,13 @@
 ## Panel II: Family Politics and Democracy (13:00-14:50)      
 
 <li>Chair: Allen Hicken (University of Michigan, US)</li>   
+
 ### 1. TBD         
 **Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
 **Discussant**: James Ockey (University of Canterbury, New Zealand)    
 
 ### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
-**Presenter**: Julio Teehankee (De La Salle University, Philippines) 
+**Presenter**: Julio Teehankee (De La Salle University, Philippines)     
 **Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
 
 ### 3. TBD            
