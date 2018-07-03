@@ -26,6 +26,7 @@
 ### 1. TBD         
 **Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
 **Discussant**: James Ockey (University of Canterbury, New Zealand)    
+
 ### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
 **Presenter**: Julio Teehankee (De La Salle University, Philippines) 
 **Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
