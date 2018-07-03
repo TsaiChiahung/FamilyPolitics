@@ -45,7 +45,7 @@
 ## Coffee Break (14:50-15:10)    
 
 
-## Panel III: Democracy, Family Politics and Governance (15:10-17:00)  
+## Panel III: Family Politics and Governance (15:10-17:00)  
 
 <li>Chair:  Lu-huei Chen (National Chengchi University, Taiwan)      </li>
 
