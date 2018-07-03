@@ -1,4 +1,4 @@
-# Conference on Elections and Family Politics in Southeast Asia 
+# International Conference on Elections and Family Politics in Southeast Asia 
 
 *Host*: University of Canterbury  
 *Date*: Aug. 3rd  
