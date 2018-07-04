@@ -38,8 +38,8 @@
 **Presenter**: Julio Teehankee (De La Salle University, Philippines)     
 **Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
 
-### 3. TBD            
-**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan) and Ying-long Chou (Tamkang University, Taiwan)     
+### 3. People’s Perspective on Dynastic Politicians in Taiwan            
+**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-long Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
 **Discussant**: Alex Tan (University of Canterbury, New Zealand)  
 
 
