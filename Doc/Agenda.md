@@ -11,7 +11,7 @@
 
 <br>
 
-## Panel I: Elections and Family Politics: Theoretical Framework (10:00-12:00)    
+## Panel I: Family Politics and Elections: Theoretical Framework (10:00-12:00)    
 
 <li>Chair: Chi Huang (National Chengchi University, Taiwan)</li>    
 
