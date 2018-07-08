@@ -15,7 +15,7 @@
 
 <li>Chair: Chi Huang (National Chengchi University, Taiwan)</li>    
 
-### 1. TBD         
+### 1. Why Social Networks Matter for Vote Choice: Family Networks as Channels of Clientelism in the Philippines         
 **Presenter**: Allen Hicken (University of Michigan, US)   
 **Discussant**: James Ockey (University of Canterbury, New Zealand)    
 ### 2. TBD         
