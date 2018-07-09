@@ -52,7 +52,7 @@
 <li>Chair:  Lu-huei Chen (National Chengchi University, Taiwan)      </li>
 
 
-### 1. Political Dynasties in Southern Philippines         
+### 1. Family or Bangsa? The Proposed Anti-Political Dynasty Provision in the Draft Bangsamoro Basic Law         
 **Presenter**: Dennis Quilala (University of the Philippines-Diliman, Philippines; University of Canterbury, New Zealand)  
 **Discussant**: Allen Hicken (University of Michigan)   
 
