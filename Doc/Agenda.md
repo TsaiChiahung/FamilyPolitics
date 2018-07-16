@@ -22,7 +22,7 @@
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University)   
 **Discussant**: Julio Teehankee (De La Salle University, Philippines)   
 
-### 3. Families and Politics in Thailand            
+### 3. The Evolution of Political Families in Thailand: Promoting the Brand               
 **Presenter**: James Ockey (University of Canterbury, New Zealand)      
 **Discussant**: Chia-hung Tsai (National Chengchi University, Taiwan)   
 
