@@ -31,19 +31,19 @@
 
 <li>Chair: Allen Hicken (University of Michigan, US)</li>   
 
-### 1. TBD         
-**Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
-**Discussant**: James Ockey (University of Canterbury, New Zealand)    
+### 1. People’s Perspective on Dynastic Politicians in Taiwan            
+**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-long Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
+**Discussant**: Alex Tan (University of Canterbury, New Zealand)  
 
 ### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
 **Presenter**: Julio Teehankee (De La Salle University, Philippines)     
 **Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
 
-### 3. People’s Perspective on Dynastic Politicians in Taiwan            
-**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-long Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
-**Discussant**: Alex Tan (University of Canterbury, New Zealand)  
 
 
+### 3. TBD         
+**Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
+**Discussant**: James Ockey (University of Canterbury, New Zealand)    
 ## Coffee Break (14:50-15:10)    
 
 
