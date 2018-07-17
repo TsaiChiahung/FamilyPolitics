@@ -17,7 +17,7 @@
 
 ### 1. Why Social Networks Matter for Vote Choice: Family Networks as Channels of Clientelism in the Philippines         
 **Presenter**: Allen Hicken (University of Michigan, US)   
-**Discussant**: James Ockey (University of Canterbury, New Zealand)    
+**Discussant**:  Alexander Tan (University of Canterbury, New Zealand)    
 ### 2. TBD         
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University)   
 **Discussant**: Julio Teehankee (De La Salle University, Philippines)   
@@ -33,7 +33,7 @@
 
 ### 1. People’s Perspective on Dynastic Politicians in Taiwan            
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-long Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
-**Discussant**: Alex Tan (University of Canterbury, New Zealand)  
+**Discussant**:  Naimah Talib (University of Canterbury)   
 
 ### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
 **Presenter**: Julio Teehankee (De La Salle University, Philippines)     
