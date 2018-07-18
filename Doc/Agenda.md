@@ -18,9 +18,11 @@
 ### 1. Why Social Networks Matter for Vote Choice: Family Networks as Channels of Clientelism in the Philippines         
 **Presenter**: Allen Hicken (University of Michigan, US)   
 **Discussant**:  Alexander Tan (University of Canterbury, New Zealand)    
-### 2. TBD         
-**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University)   
-**Discussant**: Julio Teehankee (De La Salle University, Philippines)   
+
+
+### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
+**Presenter**: Julio Teehankee (De La Salle University, Philippines)     
+**Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
 
 ### 3. The Evolution of Political Families in Thailand: Promoting the Brand               
 **Presenter**: James Ockey (University of Canterbury, New Zealand)      
@@ -31,15 +33,13 @@
 
 <li>Chair: Allen Hicken (University of Michigan, US)</li>   
 
-### 1. People’s Perspective on Dynastic Politicians in Taiwan            
+### 1. Why Study Political Dynasties? Popular Expectations of How Politicians from Political Families Will Perform in Office          
+**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University)   
+**Discussant**: Julio Teehankee (De La Salle University, Philippines)   
+
+### 2. People’s Perspective on Dynastic Politicians in Taiwan            
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-long Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
 **Discussant**:  Naimah Talib (University of Canterbury)   
-
-### 2. The Family that Rules Together: Persistence of Family Politics in the Philippines            
-**Presenter**: Julio Teehankee (De La Salle University, Philippines)     
-**Discussant**: Dennis Quilala (University of Canterbury, University of the Philippines-Diliman)  
-
-
 
 ### 3. TBD         
 **Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
