@@ -64,7 +64,7 @@ Department of Political Science and International Relations Southeast Asia Resea
 **Discussant**: Naimah Talib (University of Canterbury)    
 
 ### 3. Networks, Clans, and Clientelism: Reshaping Thai Local Politics under Military Rule
-**Presenter**: Suthikarn Meechan (University of Canterbury and Mahasarakham University, Thailand)
+**Presenter**: Suthikarn Meechan (University of Canterbury and Mahasarakham University, Thailand)       
 **Discussant**: Allen Hicken (University of Michigan, USA)
 
 ### 4. Political Family and Campaign Spending in Taiwan              
