@@ -1,8 +1,11 @@
 # International Conference on Family Politics and Elections in Southeast Asia 
 
-*Host*: University of Canterbury  
+*Venue*: Yardley Study Centre Rochester and Rutherford Hall, University of Canterbury    
+<br>
 *Date*: Aug. 3rd (Fri.), 2018  
+<br>
 *Sponsors*: Taiwan Foundation for Democracy, Center for Southeast Asian Studies National Chengchi University, Department of Political Science and International Relations University of Canterbury    
+<br>
 *Co-hosts*: Election Study Center, National Chengchi University, and University of Canterbury 
 Department of Political Science and International Relations Southeast Asia Research Initiative (SEARI)  
 
