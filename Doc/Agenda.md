@@ -38,8 +38,8 @@
 **Discussant**: Julio Teehankee (De La Salle University, Philippines)   
 
 ### 2. People’s Perspective on Dynastic Politicians in Taiwan            
-**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-long Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
-**Discussant**:  Naimah Talib (University of Canterbury)   
+**Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-lung Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
+**Discussant**:  Alex Tan (University of Canterbury)   
 
 ### 3. TBD         
 **Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
@@ -51,7 +51,6 @@
 
 <li>Chair:  Lu-huei Chen (National Chengchi University, Taiwan)      </li>
 
-
 ### 1. Family or Bangsa? The Proposed Anti-Political Dynasty Provision in the Draft Bangsamoro Basic Law         
 **Presenter**: Dennis Quilala (University of the Philippines-Diliman, Philippines; University of Canterbury, New Zealand)  
 **Discussant**: Allen Hicken (University of Michigan)   
@@ -60,7 +59,11 @@
 **Presenter**: Tsai-wei Sun and Yi Le Ng (National Chengchi University)     
 **Discussant**: Naimah Talib (University of Canterbury)    
 
-### 3. Political Family and Campaign Spending in Taiwan              
+### 3. Networks, Clans, and Clientelism: Reshaping Thai Local Politics under Military Rule
+**Presenter**: Suthikarn Meechan (University of Canterbury and Mahasarakham University, Thailand)
+**Discussant**: Allen Hicken (University of Michigan, USA)
+
+### 4. Political Family and Campaign Spending in Taiwan              
 **Presenter**: Chia-hung Tsai, Alex Tan, Lu-huei Chen, & Chi Huang (National Chengchi University, Taiwan)     
 **Discussant**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)
 
