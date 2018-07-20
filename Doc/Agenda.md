@@ -9,8 +9,8 @@
 *Co-hosts*: Election Study Center, National Chengchi University, and University of Canterbury 
 Department of Political Science and International Relations Southeast Asia Research Initiative (SEARI)  
 
-## Registration (9:30-9:50)   
-## Opening Ceremonies (9:50-10:00)   
+## Participants arrive and registration (9:30-9:50)   
+## Welcome remarks (9:50-10:00)   
 <li>Alexander Tan (Head of Department of Political Science, University of Canterbury, New Zealand)    </li>
 
 <br>
