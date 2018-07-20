@@ -2,8 +2,9 @@
 
 *Host*: University of Canterbury  
 *Date*: Aug. 3rd (Fri.), 2018  
-*Organizers*: Election Study Center, National Chengchi University, and Department of Political Science, University of Canterbury  
-*Sponsors*: Taiwan Foundation for Democracy and Center for Southeast Asian Studies, National Chengchi University
+*Sponsors*: Taiwan Foundation for Democracy, Center for Southeast Asian Studies National Chengchi University, Department of Political Science and International Relations University of Canterbury    
+*Co-hosts*: Election Study Center, National Chengchi University, and University of Canterbury 
+Department of Political Science and International Relations Southeast Asia Research Initiative (SEARI)  
 
 ## Registration (9:30-9:50)   
 ## Opening Ceremonies (9:50-10:00)   
