@@ -65,7 +65,7 @@ Department of Political Science and International Relations Southeast Asia Resea
 **Discussant**: Allen Hicken (University of Michigan, USA)
 
 ### 4. Political Family and Campaign Spending in Taiwan              
-**Presenter**: Chia-hung Tsai, Alex Tan, Lu-huei Chen, & Chi Huang (National Chengchi University, Taiwan)     
+**Presenter**: Chia-hung Tsai, Alex Tan, Lu-huei Chen, and Chi Huang (National Chengchi University, Taiwan)     
 **Discussant**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)
 
 ## Conference Concludes (17:00)
