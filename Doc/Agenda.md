@@ -45,7 +45,7 @@ Department of Political Science and International Relations Southeast Asia Resea
 **Presenter**: Nathan Batto (Academia Sinica and National Chengchi University, Taiwan), Ying-lung Chou (Tamkang University, Taiwan) and Chi Huang (National Chengchi University, Taiwan)         
 **Discussant**:  Alex Tan (University of Canterbury)   
 
-### 3. TBD         
+### 3. Family politics and Democracy in Indonesia         
 **Presenter**: Saiful Mujani (Saiful Mujani Research and Consulting, Indonesia)   
 **Discussant**: James Ockey (University of Canterbury, New Zealand)    
 ## Coffee Break (14:50-15:10)    
