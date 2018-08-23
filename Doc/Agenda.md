@@ -20,7 +20,7 @@ Department of Political Science and International Relations Southeast Asia Resea
 <li>Chair: Chi Huang (National Chengchi University, Taiwan)</li>    
 
 ### 1. Why Social Networks Matter for Vote Choice: Family Networks as Channels of Clientelism in the Philippines         
-**Presenter**: Allen Hicken (University of Michigan, US)   
+**Presenter**: Michael Davidson (University of California, San Diego), Allen Hicken (University of Michigan), Nico Ravanilla (University of California, San Diego)   
 **Discussant**:  Alexander Tan (University of Canterbury, New Zealand)    
 
 
